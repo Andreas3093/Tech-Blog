@@ -35,7 +35,7 @@
   
   ## Screenshot
   ### welcome Screen
-  ![welocome](./public/images/welcome.PNG)
+  ![welcome](./public/images/welcome.PNG)
 
   ### sign up 
   ![signup](./public/images/signup.PNG)
