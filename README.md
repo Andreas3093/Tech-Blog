@@ -35,19 +35,19 @@
   
   ## Screenshot
   ### welcome Screen
-  ![welcome](./public/images/welcome.PNG)
+  ![welcome](./public/images/welcome.png)
 
   ### sign up 
-  ![signup](./public/images/signup.PNG)
+  ![signup](./public/images/signup.png)
   
   ### dashboard 
-  ![dashboard](./public/images/dashboard.PNG)
+  ![dashboard](./public/images/dashboard.png)
   
   ### comment page
-  ![commment](./public/images/comment.PNG)
+  ![commment](./public/images/comment.png)
 
   ### edit page
-  ![edit](./public/images/edit.PNG)  
+  ![edit](./public/images/edit.png)  
 
   ## deployed
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://andreas-tech-blog.herokuapp.com/)
